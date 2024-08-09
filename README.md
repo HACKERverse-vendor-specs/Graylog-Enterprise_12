@@ -17,7 +17,7 @@
 - **Ideal Customers:** Businesses
 - **Cyber Security:** SIEM
 - **Vendor Logo:** https://github.com/HACKERverse-vendor-specs/Graylog-Enterprise_12/blob/main/Graylog_Logo_2024_blue_black_outline.png 
-- **Vendor Color:** #A0FF00
+- **Vendor Color:** #05C2FF
 
 ---
 [//]: # (Details)
