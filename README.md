@@ -1,6 +1,5 @@
- 
-      [//]: # (POC Architecture)
-      # Your POC Architecture
+ [//]: # (POC Architecture)
+ # Your Graylog POC Architecture
 
 ![Header Logo](https://hvcompany.s3.us-west-2.amazonaws.com/email/EMAILheader.jpg)
 
