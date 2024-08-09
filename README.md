@@ -16,6 +16,8 @@
 - **URL:** graylog.org
 - **Ideal Customers:** Businesses
 - **Cyber Security:** SIEM
+- **Vendor Logo:** 
+- **Vendor Color:** #A0FF00
 
 ---
 [//]: # (Details)
